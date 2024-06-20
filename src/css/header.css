@@ -19,3 +19,9 @@
 .nav-link:focus {
   color: #747bff;
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
